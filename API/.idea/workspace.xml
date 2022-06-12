@@ -37,7 +37,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Authentication">
+  <component name="RunManager" selected="JUnit.GetRequest20.test20">
     <configuration name="Authentication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="utilities.Authentication" />
       <module name="API" />
@@ -66,7 +66,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetRequest14.test14" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GetRequest11.test11" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="API" />
       <extension name="coverage">
         <pattern>
@@ -75,40 +75,40 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="get_http_request.day6" />
-      <option name="MAIN_CLASS_NAME" value="get_http_request.day6.GetRequest14" />
-      <option name="METHOD_NAME" value="test14" />
+      <option name="MAIN_CLASS_NAME" value="get_http_request.day6.GetRequest11" />
+      <option name="METHOD_NAME" value="test11" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetRequest16.test16" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GetRequest19.test19" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="API" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="get_http_request.day7.*" />
+          <option name="PATTERN" value="get_http_request.day8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="get_http_request.day7" />
-      <option name="MAIN_CLASS_NAME" value="get_http_request.day7.GetRequest16" />
-      <option name="METHOD_NAME" value="test16" />
+      <option name="PACKAGE_NAME" value="get_http_request.day8" />
+      <option name="MAIN_CLASS_NAME" value="get_http_request.day8.GetRequest19" />
+      <option name="METHOD_NAME" value="test19" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetRequest17.test17" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GetRequest20.test20" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="API" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="get_http_request.day7.*" />
+          <option name="PATTERN" value="get_http_request.day8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="get_http_request.day7" />
-      <option name="MAIN_CLASS_NAME" value="get_http_request.day7.GetRequest17" />
-      <option name="METHOD_NAME" value="test17" />
+      <option name="PACKAGE_NAME" value="get_http_request.day8" />
+      <option name="MAIN_CLASS_NAME" value="get_http_request.day8.GetRequest20" />
+      <option name="METHOD_NAME" value="test20" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Authentication" />
-        <item itemvalue="JUnit.GetRequest17.test17" />
-        <item itemvalue="JUnit.GetRequest16.test16" />
-        <item itemvalue="JUnit.GetRequest14.test14" />
+        <item itemvalue="JUnit.GetRequest20.test20" />
+        <item itemvalue="JUnit.GetRequest19.test19" />
         <item itemvalue="JUnit.GetRequest11" />
+        <item itemvalue="JUnit.GetRequest11.test11" />
+        <item itemvalue="Application.Authentication" />
       </list>
     </recent_temporary>
   </component>
