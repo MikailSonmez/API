@@ -37,12 +37,12 @@ public class GetRequest14 extends GMIBankBaseUrl {
 
         //MATCHERS CLASS iLE
         response.then().assertThat()
-                .body("firstName", equalTo("Melva")
-                        , "lastName", equalTo("Bernhard")
-                        , "email", equalTo("chas.kuhlman@yahoo.com")
-                        , "zipCode", equalTo("40207")
-                        , "country.name", equalTo("San Jose")
-                        , "user.login", equalTo("delilah.metz"));
+                .body("firstName", equalTo("Della")
+                        , "lastName", equalTo("Heaney")
+                        , "email", equalTo("ricardo.larkin@yahoo.com")
+                        , "zipCode", equalTo("53081")
+                        , "country.name", equalTo("USA")
+                        , "user.login", equalTo(""));
 
         //JSON PATH iLE
         JsonPath json = response.jsonPath();
