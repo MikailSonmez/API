@@ -37,65 +37,34 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.PostRequest03.test03">
-    <configuration name="GetRequest23" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PostRequestPojo01.test">
+    <configuration name="DeleteRequest01.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="API" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="get_http_request.day10.*" />
+          <option name="PATTERN" value="get_http_request.day12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="get_http_request.day10" />
-      <option name="MAIN_CLASS_NAME" value="get_http_request.day10.GetRequest23" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GetRequest23.test23" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="API" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="get_http_request.day10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="get_http_request.day10" />
-      <option name="MAIN_CLASS_NAME" value="get_http_request.day10.GetRequest23" />
-      <option name="METHOD_NAME" value="test23" />
+      <option name="PACKAGE_NAME" value="get_http_request.day12" />
+      <option name="MAIN_CLASS_NAME" value="get_http_request.day12.DeleteRequest01" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PostRequest01.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PatchRequest01.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="API" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="get_http_request.day10.*" />
+          <option name="PATTERN" value="get_http_request.day12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="get_http_request.day10" />
-      <option name="MAIN_CLASS_NAME" value="get_http_request.day10.PostRequest01" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PostRequest02.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="API" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="get_http_request.day11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="get_http_request.day11" />
-      <option name="MAIN_CLASS_NAME" value="get_http_request.day11.PostRequest02" />
-      <option name="METHOD_NAME" value="test02" />
+      <option name="PACKAGE_NAME" value="get_http_request.day12" />
+      <option name="MAIN_CLASS_NAME" value="get_http_request.day12.PatchRequest01" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -117,13 +86,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PostRequestPojo01.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="get_http_request.day12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="get_http_request.day12" />
+      <option name="MAIN_CLASS_NAME" value="get_http_request.day12.PostRequestPojo01" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PutRequest01.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="get_http_request.day12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="get_http_request.day12" />
+      <option name="MAIN_CLASS_NAME" value="get_http_request.day12.PutRequest01" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PostRequestPojo01.test" />
+        <item itemvalue="JUnit.DeleteRequest01.test" />
+        <item itemvalue="JUnit.PatchRequest01.test" />
+        <item itemvalue="JUnit.PutRequest01.test" />
         <item itemvalue="JUnit.PostRequest03.test03" />
-        <item itemvalue="JUnit.PostRequest02.test02" />
-        <item itemvalue="JUnit.PostRequest01.test01" />
-        <item itemvalue="JUnit.GetRequest23" />
-        <item itemvalue="JUnit.GetRequest23.test23" />
       </list>
     </recent_temporary>
   </component>
