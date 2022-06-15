@@ -37,7 +37,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.PostRequestPojo01.test">
+  <component name="RunManager" selected="JUnit.GetRequestPojo01.test">
     <configuration name="DeleteRequest01.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="API" />
       <extension name="coverage">
@@ -54,33 +54,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PatchRequest01.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GetRequestPojo01.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="API" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="get_http_request.day12.*" />
+          <option name="PATTERN" value="get_http_request.day13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="get_http_request.day12" />
-      <option name="MAIN_CLASS_NAME" value="get_http_request.day12.PatchRequest01" />
+      <option name="PACKAGE_NAME" value="get_http_request.day13" />
+      <option name="MAIN_CLASS_NAME" value="get_http_request.day13.GetRequestPojo01" />
       <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PostRequest03.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="API" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="get_http_request.day11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="get_http_request.day11" />
-      <option name="MAIN_CLASS_NAME" value="get_http_request.day11.PostRequest03" />
-      <option name="METHOD_NAME" value="test03" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,16 +86,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PutRequest01.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PostRequestPojo02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="API" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="get_http_request.day12.*" />
+          <option name="PATTERN" value="get_http_request.day13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="get_http_request.day12" />
-      <option name="MAIN_CLASS_NAME" value="get_http_request.day12.PutRequest01" />
+      <option name="PACKAGE_NAME" value="get_http_request.day13" />
+      <option name="MAIN_CLASS_NAME" value="get_http_request.day13.PostRequestPojo02" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostRequestPojo02.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="get_http_request.day13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="get_http_request.day13" />
+      <option name="MAIN_CLASS_NAME" value="get_http_request.day13.PostRequestPojo02" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -120,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GetRequestPojo01.test" />
+        <item itemvalue="JUnit.PostRequestPojo02" />
+        <item itemvalue="JUnit.PostRequestPojo02.test" />
         <item itemvalue="JUnit.PostRequestPojo01.test" />
         <item itemvalue="JUnit.DeleteRequest01.test" />
-        <item itemvalue="JUnit.PatchRequest01.test" />
-        <item itemvalue="JUnit.PutRequest01.test" />
-        <item itemvalue="JUnit.PostRequest03.test03" />
       </list>
     </recent_temporary>
   </component>
