@@ -1,6 +1,7 @@
 package get_http_request.day13;
 
 import base_url.DummyBaseUrl;
+import com.google.gson.Gson;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import org.junit.Test;
@@ -57,10 +58,19 @@ GET Request to the URL http://dummy.restapiexample.com/api/v1/employee/1
         assertEquals(expectedData.getData().getId(),actualData.getData().getId());
         assertEquals(expectedData.getData().getProfile_image(),actualData.getData().getProfile_image());
 
-        //Gson gson=new Gson;
-        //String jsonFromJava=gson.toJson(ActualData);
-        //System.err.println("jsonFromJava = " + jsonFromJava);
-        ////jsonFromJava = {"status":"success","data":{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},"message":"Successfully! Record has been fetched."}
+
+        // Serialization -> Java yapisindaki datayi JSON formatina donusturme
+        Gson gson=new Gson();
+        String jsonFromJava=gson.toJson(actualData);
+        System.err.println("jsonFromJava = " + jsonFromJava);
+        //  System.err.println .err kirmizi yazdirir
+        //jsonFromJava =
+        // {"status":"success",
+        // "data":{"id":1,
+        // "employee_name":"Tiger Nixon",
+        // "employee_salary":320800,"employee_age":61,
+        // "profile_image":""},
+        // "message":"Successfully! Record has been fetched."}
 
     }
 }
