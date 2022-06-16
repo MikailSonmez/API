@@ -37,92 +37,93 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.GetRequestObjectMapper02.test">
-    <configuration name="GetRequestObjectMapper01.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.GMIBank03.test">
+    <configuration name="GMIBank01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="API" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="get_http_request.day14.*" />
+          <option name="PATTERN" value="get_http_request.day15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="get_http_request.day14" />
-      <option name="MAIN_CLASS_NAME" value="get_http_request.day14.GetRequestObjectMapper01" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GetRequestObjectMapper02.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="API" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="get_http_request.day14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="get_http_request.day14" />
-      <option name="MAIN_CLASS_NAME" value="get_http_request.day14.GetRequestObjectMapper02" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GetRequestPojo01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="API" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="get_http_request.day13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="get_http_request.day13" />
-      <option name="MAIN_CLASS_NAME" value="get_http_request.day13.GetRequestPojo01" />
+      <option name="PACKAGE_NAME" value="get_http_request.day15" />
+      <option name="MAIN_CLASS_NAME" value="get_http_request.day15.GMIBank01" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetRequestPojo01.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GMIBank01.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="API" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="get_http_request.day13.*" />
+          <option name="PATTERN" value="get_http_request.day15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="get_http_request.day13" />
-      <option name="MAIN_CLASS_NAME" value="get_http_request.day13.GetRequestPojo01" />
+      <option name="PACKAGE_NAME" value="get_http_request.day15" />
+      <option name="MAIN_CLASS_NAME" value="get_http_request.day15.GMIBank01" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PostRequestPojo02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GMIBank01.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="API" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="get_http_request.day13.*" />
+          <option name="PATTERN" value="get_http_request.day15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="get_http_request.day13" />
-      <option name="MAIN_CLASS_NAME" value="get_http_request.day13.PostRequestPojo02" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="get_http_request.day15" />
+      <option name="MAIN_CLASS_NAME" value="get_http_request.day15.GMIBank01" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GMIBank02.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="get_http_request.day15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="get_http_request.day15" />
+      <option name="MAIN_CLASS_NAME" value="get_http_request.day15.GMIBank02" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GMIBank03.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="get_http_request.day15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="get_http_request.day15" />
+      <option name="MAIN_CLASS_NAME" value="get_http_request.day15.GMIBank03" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.GetRequestObjectMapper02.test" />
-        <item itemvalue="JUnit.GetRequestObjectMapper01.test" />
-        <item itemvalue="JUnit.GetRequestPojo01" />
-        <item itemvalue="JUnit.GetRequestPojo01.test" />
-        <item itemvalue="JUnit.PostRequestPojo02" />
+        <item itemvalue="JUnit.GMIBank03.test" />
+        <item itemvalue="JUnit.GMIBank02.test" />
+        <item itemvalue="JUnit.GMIBank01.test01" />
+        <item itemvalue="JUnit.GMIBank01.test" />
+        <item itemvalue="JUnit.GMIBank01" />
       </list>
     </recent_temporary>
   </component>
